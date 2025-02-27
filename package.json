@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node api/hello.js"
   },
-  "dependencies": {
-    "express": "^4.17.1",
+  "dependencies": {    
      "openai": "^4.0.0"
   },
   "devDependencies": {},
