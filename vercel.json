@@ -5,5 +5,11 @@
       "src": "api/hello.js",
       "use": "@vercel/node"
     }
+  ],
+  "routes": [
+    {
+      "src": "/api/hello",
+      "dest": "/api/hello.js"
+    }
   ]
 }
