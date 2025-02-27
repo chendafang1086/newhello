@@ -7,11 +7,9 @@
     "start": "node api/hello.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+     "openai": "^4.0.0"
   },
-  "dependencies": {
-    "openai": "^4.0.0"
-  }，
   "devDependencies": {},
   "engines": {
     "node": "22.x"
